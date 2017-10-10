@@ -1,0 +1,15 @@
+{
+  "name": "adapt-contrib-mpabc",
+  "version": "3.0.0",
+  "framework": ">=2.0.11",
+  "core" : "core",
+  "main": "/js/mpabc.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-core"
+  ],
+  "license": "GPLv3",
+  "dependencies": {
+    "adapt-contrib-core": "*"
+  }
+}
